@@ -1,0 +1,43 @@
+.father{
+	background-color:black;
+	color:#ffffff;
+	position:relative;
+	border-radius:5px;
+	text-align: center;
+	height: 57px;
+	min-width:960px;
+	opacity: 1;
+	margin-top:-14px;
+}
+body{
+	background-color:#780000;
+}
+.child{
+		
+	padding:15px 40px;
+	background-color:white;
+	color:black;
+	float:right;
+	position:relative;
+	right:0px;
+	border-radius:5px;
+	font-size:20px;
+	border:1px inset black;
+}
+.next{
+	background-color:white;
+	color:black;
+	padding:15px 40px;
+	border-radius:5px;
+	float:left;
+	font-size:20px;
+	border:1px inset black;
+	position:relative;
+	right:40px;
+}
+.top li{
+	display:inline;
+}
+.top{
+	height:50px;
+}
